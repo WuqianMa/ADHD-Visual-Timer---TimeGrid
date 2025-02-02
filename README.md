@@ -1,4 +1,4 @@
-# ADHD Friendly Timer
+# TimeGrid
 
 ![Screenshot](screenshot.png)
 
